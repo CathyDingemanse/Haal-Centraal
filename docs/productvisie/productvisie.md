@@ -40,6 +40,9 @@ Focus op bruikbaarheid voor de ontwikkelaar: AOS spec is getest op codegeneratie
 ### Agnostisch
 = zonder kennis van de consumer. De API moet door alle (in theorie 200 verschillende) gemeentelijke processen en producten van andere overheidspartijen kunnen worden gebruikt die basisgegevens nodig hebben.
 
+### Evolvable
+Haal Centraal API's zijn zo ontworpen dat ze uitbreidbaar en evolvable zijn. Haal Centraal stelt zich tot doel om breaking changes te vermijden.
+
 ### Geïmplementeerd 
 API's worden geimplementeerd door een landelijke registratie (RvIG, kadaster, KVK, etc.)
 
